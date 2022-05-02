@@ -5,7 +5,7 @@
 <h1 align="center">Know more about me</h1>
 <br>
 <p align="center">A <i>coffee driven night owl</i> with an aim of always aquiring knowledge and skills.</p>
-<img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
+<img align="right" alt="Octocat" height="250px" src="Images/github-octocat.svg">
 <br>
 
 :dart: Want to become next tech idol, whom all gonna love <br>
