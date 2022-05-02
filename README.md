@@ -8,16 +8,15 @@
 <img align="right" alt="Octocat" height="250px" src="Images/octocat.png">
 <br>
 
-:dart: Wish to be a part of a revolutionary technology in its making  
-:telescope: Working on my skills in Machine Learning, Front-End Development and Problem Solving  
-:seedling: Learning Cloud Computing and Flutter Development  
-:eyes: Looking forward to collaborate and working on interesting problems  
-:bulb: Reading research papers is one of my recent hobbies  
-:ticket: I love attending events and talking about technology  
-:ear: Always interested in listening and discussing about new ideas  
-:apple: Eating healthy is the most I'm doing for my physical self at the moment  
-:hourglass: My scariest dream is wasting my life without a motive  
-:books: Favourite book: Superintelligence: Paths, Dangers, Strategies <sub>by Nick Bostrom</sub>  
+:dart: Want to become next tech idol, whom all gonna love <br>
+:telescope: Working on my skills in Full-Stack Development and Problem Solving  <br>
+:seedling: Learning ThreeJs and Data Structures<br>
+:eyes: Looking forward to meet new people and and working over a problem with them <br> 
+:ticket: Love participating in various technical events<br>
+:ear: A good playlist of music while working is all I need <br>
+:apple: Regular Exercises and home workout is my daily routine<br>
+:hourglass: Focused one balancing work time and me time<br>
+  
 
 <br>
 
