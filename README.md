@@ -9,7 +9,7 @@
 <img align="right" alt="Octocat" height="250px" src="Images/github-octocat.svg">
 <br>
 
-📫: Email me at : rajivsharma4180@gmail.com <br>
+📫: Email me at : rajivsharmadev@gmail.com <br>
 :dart: Want to become next tech idol, whom all gonna love <br>
 :telescope: Working on my skills in Full-Stack Development and Problem Solving  <br>
 :seedling: Currently learning ThreeJs and Data Structures<br>
